@@ -3,7 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielwdev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bi.elw/)
 
-![Gabriel Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=bielwdev&show_icons=true&theme=vue-dark)
+<div align="center">
+  <a href="https://github.com/bielwdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielwdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwdev&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
  ### Stacks que uso no meu dia-a-dia
 
@@ -18,4 +22,4 @@
  📍 Me vejo como uma pessoa com facilidade de aprendizado, focada na resolução de problemas e uma determinação muito grande em aprimorar outras habilidades para me desenvolver como pessoa e profissionalmente.
 
  <br>
-💡 Apaixonado por tecnologia, busco uma transição de carreira bem-sucedida para Desenvolvedor, aproveitando minhas habilidades e experiências anteriores para contribuir de forma significativa e alcançar excelência nesse novo campo.
+💡 Apaixonado por tecnologia, busco uma transição de carreira bem-sucedida para Desenvolvedor, aproveitando minhas habilidades e experiências para contribuir de forma significativa e alcançar excelência nesse novo campo.
