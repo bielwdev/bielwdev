@@ -23,18 +23,18 @@
 
 ## Languages and Tools
 
-##### Backend
+#### Backend
 
 [![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
-##### Frontend
+#### Frontend
 
 [![Backend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-##### Database
+#### Database
 
 [![Backend](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
-##### Tools
+#### Tools
 
 [![Backend](https://skillicons.dev/icons?i=git,github,vscode,idea,windows,linux)](https://skillicons.dev)
