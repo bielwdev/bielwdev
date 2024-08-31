@@ -44,4 +44,5 @@
 <p align="center">
     <a href="https://github.com/bielwdev"><img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=bielwdev&show_icons=true&theme=transparent&include_all_commits=true"/></a>
     <a href="https://github.com/bielwdev"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwdev&layout=compact&langs_count=7&theme=transparent"/></a>
+    <a href="https://github.com/bielwdev"><img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=bielwdev&theme=transparent"/></a>
 </p>
