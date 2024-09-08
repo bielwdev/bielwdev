@@ -25,19 +25,19 @@
 
 #### Backend
 
-[![Backend](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails&theme=dark&titles=true)
 
 #### Frontend
 
-[![Backend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tailwindcss&theme=dark&titles=true)
 
 #### Database
 
-[![Backend](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+![Database](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql&theme=dark&titles=true)
 
 #### Tools
 
-[![Backend](https://skillicons.dev/icons?i=git,github,vscode,idea,windows,linux)](https://skillicons.dev)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,git,github,vscode,rubymine&theme=dark&titles=true)
 
 ##
 
