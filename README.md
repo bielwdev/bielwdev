@@ -33,7 +33,7 @@
 
 #### Database
 
-![Database](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql&theme=dark&titles=true)
+![Database](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite&theme=dark&titles=true)
 
 #### Tools
 
