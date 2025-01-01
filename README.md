@@ -25,7 +25,7 @@
 
 #### Backend
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails&theme=dark&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,java&theme=dark&titles=true)
 
 #### Frontend
 
