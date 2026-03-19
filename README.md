@@ -40,16 +40,16 @@ I'm a **proactive**, **organized**, and **collaborative** developer, with strong
 ## 🛠️ Languages and Tools
 
 ### Backend / Fullstack
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,python,java,ruby&theme=dark&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=php,nodejs,python,java,ruby&theme=dark&titles=true)
 
 ### Frontend
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tailwindcss&theme=dark&titles=true)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=angular,typescript,react,nextjs,tailwindcss&theme=dark&titles=true)
 
 ### Databases
 ![Database](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,firebase,mysql&theme=dark&titles=true)
 
 ### Tools & Quality
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,prisma,eslint,prettier&theme=dark&titles=true)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=dbeaver,postman,git,github,vscode,prisma,eslint,prettier&theme=dark&titles=true)
 
 
 
