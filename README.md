@@ -1,66 +1,33 @@
 <img src="https://raw.githubusercontent.com/bielwdev/bielwdev/main/img/gabrielvictor.png">
 
-# Hi 👋, I'm Gabriel Victor
+hey! i'm gabriel, a fullstack developer based in brazil. i graduated in systems analysis and development in december 2025.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bielwdev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bi.elw/)
-<img src="https://komarev.com/ghpvc/?username=bielwdev&label=VISITS&color=8ed8da&style=for-the-badge" alt="bielwdev" />
+i've been tinkering with tech since i was 8 — started out running minecraft, gunz, and gta samp servers, which is where my curiosity for how things work under the hood began.
 
+today i work as a jr php analyst, building enterprise web platforms and shipping features daily.
 
-## 👨‍💻 About Me
+## what i do
 
-I'm a **Junior Fullstack Developer** and a **Systems Analysis and Development student** at **Faculdade Descomplica**.  
-I have hands-on experience building **web applications and APIs** using **TypeScript**, **JavaScript**, **React**, **Next.js**, **Node.js**, and **Python**.
+- build fullstack apps with **angular** + **laravel/php** and **next.js** + **node.js**
+- design and implement **rbac systems** — role/permission hierarchy, middleware enforcement, dynamic permission editor ui
+- build **auth flows** — passwordless onboarding, password reset via email, rate limiting, jwt + sanctum, ldap sync
+- work with **postgresql**, **mongodb** and **mysql**
 
-I work with **REST APIs**, **JSON**, **object-oriented programming**, **data processing**, and integration between frontend and backend, using both **relational and NoSQL databases** such as **PostgreSQL**, **MongoDB**, and **Firebase**.
+## work
 
-I'm a **proactive**, **organized**, and **collaborative** developer, with strong learning ability and good communication skills, always seeking to improve code quality and deliver scalable solutions.
+currently building a dual-portal enterprise platform (client + admin) with angular and laravel. highlights:
 
+- **rbac system** — role/permission hierarchy with middleware enforcement, route guards, and a dynamic permission editor built from scratch
+- **dual auth flows** — isolated sessions per portal, passwordless onboarding, jwt + sanctum, rate limiting, and ldap sync
+- **secure file handling** — authenticated blob downloads, multipart uploads, uuid-based attachment access
+- **financial module** — invoice management, boleto download, and status-based business rules across the full stack
 
+## side projects
 
-## 🎓 Education
+- **portfolio** — macOS-themed interactive portfolio with draggable windows, animated boot screen, and gsap-powered transitions, built with next.js + framer motion
 
-- 🎓 **Systems Analysis and Development** — Faculdade Descomplica  
+## want to connect?
 
-
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/bielwdev" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bielwdev" height="30" width="40" />
-  </a>
-  <a href="https://discordapp.com/users/254777320882176000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bi.elw" height="30" width="40" />
-  </a>
-</p>
-
-
-
-## 🛠️ Languages and Tools
-
-### Backend / Fullstack
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=php,nodejs,python,java,ruby&theme=dark&titles=true)
-
-### Frontend
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=angular,typescript,react,nextjs,tailwindcss&theme=dark&titles=true)
-
-### Databases
-![Database](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,firebase,mysql&theme=dark&titles=true)
-
-### Tools & Quality
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=dbeaver,postman,git,github,vscode,prisma,eslint,prettier&theme=dark&titles=true)
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=bielwdev&show_icons=true&theme=transparent&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielwdev&show_icons=true&theme=transparent&include_all_commits=true"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwdev&layout=compact&langs_count=7&theme=transparent">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielwdev&layout=compact&langs_count=7&theme=transparent"/>
- <a href="https://streak-stats.demolab.com?user=bielwdev&theme=transparent"><img src="https://streak-stats.demolab.com?user=bielwdev&theme=transparent"/>
- </a>
-</p>
+- linkedin: [bielwdev](https://linkedin.com/in/bielwdev)
+- instagram: [@bi.elw](https://www.instagram.com/bi.elw/)
+- discord: [bi.elw](https://discordapp.com/users/254777320882176000)
